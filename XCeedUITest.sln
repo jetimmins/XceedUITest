@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XCeedUITest", "XCeedUITest.csproj", "{2F727FF9-6A6C-4BDC-AED1-D66E04EECEA9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScopeSuite.Model", "..\ScopeSuite\ScopeSuite.Model\ScopeSuite.Model.csproj", "{02984FC2-1142-4A06-BF69-271204F8E6E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2F727FF9-6A6C-4BDC-AED1-D66E04EECEA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F727FF9-6A6C-4BDC-AED1-D66E04EECEA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F727FF9-6A6C-4BDC-AED1-D66E04EECEA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02984FC2-1142-4A06-BF69-271204F8E6E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02984FC2-1142-4A06-BF69-271204F8E6E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02984FC2-1142-4A06-BF69-271204F8E6E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02984FC2-1142-4A06-BF69-271204F8E6E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
